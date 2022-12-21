@@ -1,0 +1,28 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-12-20T09:26:00.505Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2022-12-19T20:26:00.505Z"
+    },
+    {
+      "id": 3,
+      "description": "Curso Inglês",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 150,
+      "createdAt": "2022-12-21T20:26:00.505Z"
+    }
+  ]
+}
