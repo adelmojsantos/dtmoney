@@ -39,6 +39,14 @@
       "type": "outcome",
       "createdAt": "2023-05-08T22:56:12.811Z",
       "id": 5
+    },
+    {
+      "description": "Lanche",
+      "category": "Alimentação",
+      "price": 25,
+      "type": "outcome",
+      "createdAt": "2023-05-09T21:43:21.602Z",
+      "id": 6
     }
   ]
 }
